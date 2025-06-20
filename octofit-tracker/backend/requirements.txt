@@ -2,4 +2,4 @@ flask
 sqlalchemy
 requests
 pymongo
-django
+Django==4.1
